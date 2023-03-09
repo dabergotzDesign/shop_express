@@ -1,0 +1,17 @@
+Packagename	Beschreibung	Installationsbefehl	Link
+async	Bibliothek mit vielen nützlichen Hilfsfunktionen bezüglich asynchroner Programmierung	npm install async	https://github.com/caolan/async
+bower	Package Manager für Webanwendungen	npm install -g bower	http://bower.io
+browserify	Tool für das Nutzen von Node.js Packages im Browser	npm install -g browserify	http://browserify.org
+commander	Helfertools für das Erstellen von Kommandozeilenanwendungen	npm install commander	https://github.com/tj/commander.js
+cordova	Kommandozeilenwerkzeuge für das Erstellen von Cordova-basierten Anwendungen	npm install -g cordova	https://cordova.apache.org
+express	Webframework für Node.js	npm install express	https://github.com/strongloop/express
+grunt/grunt-cli	Tool für das Automatisieren von Aufgaben bzw. das Building von Anwendungen	npm install -g grunt-cli, npm install grunt	http://gruntjs.com
+gulp/gulp-cli	Tool für das Automatisieren von Aufgaben bzw. das Building von Anwendungen	npm install -g gulp-cli, npm install gulp	http://gulpjs.com
+lodash	Bibliothek mit vielen nützlichen Hilfsfunktionen bezüglich funktionaler Programmierung	npm install lodash	https://lodash.com
+mocha	Testframework für JavaScript-Anwendungen	npm install -g mocha	https://mochajs.org
+mongodb	Treiber für die Verbindung zu der Datenbank MongoDB	npm install mongodb	https://github.com/mongodb/node-mongodb-native
+pm2	Prozessmanagement für Node.js	npm install -g pm2	http://pm2.keymetrics.io
+request	ein einfacher HTTP-Client	npm install request	https://github.com/request/request
+socket.io	Server für Socket-Verbindungen	npm install socket.io	http://socket.io
+underscore	Bibliothek mit vielen nützlichen Hilfsfunktionen bezüglich funktionaler Programmierung	npm install underscore	http://underscorejs.org
+validator	Bibliothek zur Validierung von Zeichenketten	npm install validator	https://github.com/chriso/validator.js
