@@ -5,3 +5,8 @@ body {
 h1 {
     color: #AA6600;
 }
+
+li{
+    display: inline;
+    padding: .5rem;
+}

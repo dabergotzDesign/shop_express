@@ -12,11 +12,12 @@
 
   <h1>Popular Packages</h1>
 
+  
  <nav>
     <ul>
-      <li><a href="/product/0">package 1</a></li>
-      <li><a href="/product/1">package 2</a></li>
-      <li><a href="/product/2">package 3</a></li>
+      <% for (var i=0; i < products.length; i++){ %>
+        <li><a href="/product/<%= i %>"><%= products[i].product_name %></a></li>
+        <% } %>
     </ul>
  </nav>
 
